@@ -1,1 +1,1 @@
-### Внедрение SpotBugs
+### Внедрение CheckStyle
